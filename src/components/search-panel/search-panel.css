@@ -1,0 +1,8 @@
+.search-panel{
+    padding: 25px;
+    margin-top: 20px;
+    background-color:rgb(255, 246, 232);
+    border-radius: 4px;
+    color:rgb(46, 23, 6);
+    box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.15);
+}
